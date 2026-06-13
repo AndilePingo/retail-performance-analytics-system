@@ -469,6 +469,4 @@ Potential future enhancements include:
 Andile Pingo
 
 Data Analyst and Machine Learning Engineer
-
->>>>>>> fa4024531853ae66e582b4ba9e91a6ef325527e0
 Johannesburg, South Africa
