@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Retail Performance Analytics System
 
 ## Project Overview
